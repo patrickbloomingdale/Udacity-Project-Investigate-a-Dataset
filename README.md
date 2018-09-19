@@ -2,7 +2,7 @@
 Project 3, Udacity's Data Analyst Nanodegree
 
 ## Description
-For the final project, you will conduct your own data analysis and create a file to share that documents your findings. You should start by taking a look at your dataset and brainstorming what questions you could answer using it. Then you should use pandas and NumPy to answer the questions you are most interested in, and create a report sharing the answers. You will not be required to use inferential statistics or machine learning to complete this project, but you should make it clear in your communications that your findings are tentative. This project is open-ended in that we are not looking for one right answer.
+For this project, you will conduct your own data analysis and create a file to share that documents your findings. Start by taking a look at the dataset(s) and brainstorm questions you could answer using it. Then use pandas and NumPy to answer the questions you are most interested in, and create a report sharing the answers. You will not be required to use inferential statistics or machine learning to complete this project, but you should make it clear in your communications that your findings are tentative. This project is open-ended in that we are not looking for one right answer.
 
 ## Rubric
 
@@ -42,10 +42,4 @@ For the final project, you will conduct your own data analysis and create a file
 
 ***
 
-## Project files
-- **bikeshare.py** - final project
-- **chicago.zip** - dataset used for analysis (zipped csv file)
-- **new_york_city.zip** - dataset used for analysis (zipped csv file)
-- **washington.zip** - dataset used for analysis (zipped csv file)
-- **bikeshare.py** - final project
-***
+
