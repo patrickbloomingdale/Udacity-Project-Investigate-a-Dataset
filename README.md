@@ -16,17 +16,17 @@ For the final project, you will conduct your own data analysis and create a file
 ### Quality of Analysis
 | CRITERIA                                      | MEETS SPECIFICATIONS                                                                                         |
 | --------------------------------------------- |--------------------------------------------------------------------------------------------------------------|
-| Is a question clearly posed?                  | The project clearly states one or more questions, then addresses those questions in the rest of the analysis.|
+| Is a question clearly posed?  | The project clearly states one or more questions, then addresses those questions in the rest of the analysis.|
 
 ### Data Wrangling Phase
 | CRITERIA                                      | MEETS SPECIFICATIONS                                                                                         |
 | --------------------------------------------- |--------------------------------------------------------------------------------------------------------------|
-| Is the data cleaning well documented?                  | The project documents any changes that were made to clean the data, such as merging multiple files, handling missing values, etc.|
+| Is the data cleaning well documented?  | The project documents any changes that were made to clean the data, such as merging multiple files, handling missing values, etc.|
 
 ### Exploration Phase
 | CRITERIA                                                                   | MEETS SPECIFICATIONS                                                                                         |
 | -------------------------------------------------------------------------- |--------------------------------------------------------------------------------------------------------------|
-| Is the data explored in many ways?                                         | The project investigates the stated question(s) from multiple angles. At least three variables are investigated using both single-variable (1d) and multiple-variable (2d) explorations.|
+| Is the data explored in many ways?  | The project investigates the stated question(s) from multiple angles. At least three variables are investigated using both single-variable (1d) and multiple-variable (2d) explorations.|
 | Are there a variety of relevant visualizations and statistical summaries?  | The project's visualizations are varied and show multiple comparisons and trends. Relevant statistics are computed throughout the analysis when an inference is made about the data.  At least two kinds of plots should be created as part of the explorations.|
 
 ### Conclusions Phase
@@ -39,3 +39,13 @@ For the final project, you will conduct your own data analysis and create a file
 | --------------------------------------------- |--------------------------------------------------------------------------------------------------------------|
 | Is the flow of the analysis easy to follow?  |  Reasoning is provided for each analysis decision, plot, and statistical summary.  |
 | Is the data visualized using appropriate plots and parameter choices?  |  Visualizations made in the project depict the data in an appropriate manner that allows plots to be readily interpreted.  |
+
+***
+
+## Project files
+- **bikeshare.py** - final project
+- **chicago.zip** - dataset used for analysis (zipped csv file)
+- **new_york_city.zip** - dataset used for analysis (zipped csv file)
+- **washington.zip** - dataset used for analysis (zipped csv file)
+- **bikeshare.py** - final project
+***
