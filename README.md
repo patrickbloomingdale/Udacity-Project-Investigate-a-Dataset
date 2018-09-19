@@ -42,4 +42,11 @@ For this project, you will conduct your own data analysis and create a file to s
 
 ***
 
+## Project files
+- **tmdb-movies.csv** - dataset used for analysis
+- **investigate-a-dataset-template.ipynb** - original Jypyter Notebook
+- **Investigate_a_Dataset_final.ipynb** - final project 
+- **Investigate_a_Dataset_final.html** - final project 
+***
+
 
